@@ -1,0 +1,26 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+
+# Documentation Build Files (if you add tools later)
+site/
+_build/
+*.pdf
+
+# Sensitive Information
+*.env
+credentials.txt
+internal-notes.md
