@@ -5,28 +5,38 @@ Official documentation for BlazeBite venue onboarding, device setup, and operati
 ## Quick Links
 
 ### 🚀 Getting Started
-- [Tablet Setup Guide](./guides/tablet-setup.md)
-- [Kiosk Setup Guide](./guides/kiosk-setup.md)
-- [Portal First Steps](./guides/portal-basics.md)
+- [Tablet Setup Guide](./onboarding/ONBOARDING_TABLET.md)
+- [Kitchen App Reference](./reference/KITCHEN_APP_REFERENCE.md)
 
-### 📖 Complete Guides
-- [Venue Onboarding](./onboarding/)
-- [Device Management](./devices/)
-- [Troubleshooting](./troubleshooting/)
+### 📖 Documentation Guides
+- [Model-Specific Documentation Guides](./model-guides/)
+  - [GPT-5 Documentation Guide](./model-guides/gpt5-documentation-guide.md)
+  - [Gemini Documentation Guide](./model-guides/gemini-documentation-guide.md)
+  - [Grok Documentation Guide](./model-guides/grok-documentation-guide.md)
 
-### 🔧 For Support Staff
-- [Common Issues](./support/common-issues.md)
-- [Esper MDM Procedures](./internal/esper-procedures.md)
+### 🔧 For Contributors
+- [Documentation Templates](./templates/)
+- [Contributing Guidelines](./CONTRIBUTING.md)
 
 ## Documentation Structure
 
 ```
 blazebite-documentation/
-├── onboarding/          # New venue setup guides
-├── guides/              # Step-by-step procedures
-├── troubleshooting/     # Problem resolution
-├── internal/            # Staff-only procedures
-└── assets/              # Images, diagrams
+│
+├── templates/                         # Documentation templates (reusable patterns)
+├── model-guides/                      # AI model-specific optimization guides
+├── onboarding/                        # Setup guides for new venues/devices
+├── reference/                         # Feature documentation (how things work)
+├── troubleshooting/                   # Problem resolution guides
+├── operational/                       # Day-to-day procedures
+├── internal/                          # Staff-only procedures (BlazeBite team)
+└── assets/                            # Images, diagrams, media
+    ├── images/
+    │   ├── onboarding/
+    │   ├── troubleshooting/
+    │   └── reference/
+    ├── diagrams/
+    └── logos/
 ```
 
 ## Contributing
