@@ -19,7 +19,7 @@ Official documentation for BlazeBite venue onboarding, device setup, and operati
 
 ### 🔧 For Contributors
 - [Documentation Templates](./templates/)
-  - [Onboarding Template](./templates/TEMPLATE_ONBOARDING.md) ⭐
+  - [Onboarding Template](./templates/TEMPLATE_ONBOARDING.md)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 
 ## Documentation Structure
