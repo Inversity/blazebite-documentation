@@ -515,7 +515,7 @@ Use this checklist each day to ensure smooth operations:
 - Processing Refunds
 
 ### Documentation
-- Full Kitchen App Reference Guide (KITCHEN_APP_REFERENCE.md)
+- Full Kitchen App Reference Guide (../reference/KITCHEN_APP_REFERENCE.md)
 - Portal User Manual (portal.blazebite.com/docs)
 - Printer Manual (included with hardware)
 
