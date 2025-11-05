@@ -1,6 +1,6 @@
 # [Product Name] Setup Guide
 
-<!-- 
+<!--
 TEMPLATE USAGE GUIDE:
 - Replace all [bracketed placeholders] with specific information
 - Delete all <!-- comments --> before publishing
@@ -17,7 +17,7 @@ Welcome to BlazeBite! This guide will walk you through setting up your [Product 
 
 ## 📦 What's In Your Box
 
-<!-- 
+<!--
 GUIDANCE: List ALL physical items in the box/package
 - Use checkboxes (✅) for easy verification
 - Include model numbers or specifications where relevant
@@ -39,7 +39,7 @@ Before you begin, verify you have all required hardware:
 
 ## 🔑 Before You Start: Prerequisites Checklist
 
-<!-- 
+<!--
 GUIDANCE: List EVERYTHING user needs before starting
 - Separate into logical groups (credentials, network, portal setup)
 - Make prerequisites testable/verifiable
@@ -70,7 +70,7 @@ Make sure you have the following information ready:
 
 ## 🚀 Step-by-Step Setup Instructions
 
-<!-- 
+<!--
 GUIDANCE FOR ALL STEPS:
 - ONE action per numbered item
 - Use present tense, active voice ("Tap" not "You should tap")
@@ -162,7 +162,7 @@ GUIDANCE FOR ALL STEPS:
 
 ---
 
-<!-- 
+<!--
 ADD MORE STEPS AS NEEDED following the pattern:
 1. Clear step title describing the major action
 2. Numbered substeps (single action each)
@@ -175,7 +175,7 @@ ADD MORE STEPS AS NEEDED following the pattern:
 
 ## 📱 [Product Name] Interface Tour
 
-<!-- 
+<!--
 GUIDANCE: Include this section ONLY if the product has a complex UI
 - Provide orientation, not exhaustive documentation (link to reference docs for that)
 - Focus on primary navigation and most-used features
@@ -208,7 +208,7 @@ Once [logged in/powered on], you'll see the main [Screen Name]. Here's an overvi
 
 ## 🔌 [Hardware Integration Section]
 
-<!-- 
+<!--
 GUIDANCE: Include this section if the product connects to peripherals
 - Break into logical subsections (pairing, app connection, testing)
 - Use clear part labels (Part A, Part B) if multi-step process
@@ -315,7 +315,7 @@ Now let's verify everything is working correctly:
 
 ## ✅ Hardware Setup Validation
 
-<!-- 
+<!--
 GUIDANCE: Comprehensive checklist before moving to next phase
 - List ALL critical setup steps completed so far
 - Make items specific and testable
@@ -338,7 +338,7 @@ If all checks pass, you're ready for the next phase! 🎉
 
 ## 🌐 [Portal/Backend] Settings Verification
 
-<!-- 
+<!--
 GUIDANCE: Include this section if product requires backend/portal configuration
 - Focus on verification, not initial setup (link to portal setup guides)
 - Make checks parallel to what affects this device
@@ -407,7 +407,7 @@ Now let's verify your [Portal/Backend] settings are configured correctly for [de
 
 ## 🎯 Success Criteria: You're Ready for [Operation]!
 
-<!-- 
+<!--
 GUIDANCE: Final comprehensive checklist organized by category
 - Recaps ALL major setup phases
 - User should feel confident everything is done
@@ -439,7 +439,7 @@ Congratulations! Your [device] is fully configured and ready to [operational goa
 
 ## 📞 Support & Contact Information
 
-<!-- 
+<!--
 GUIDANCE: Provide all support contact methods
 - Separate by type (general support, emergency, specific issues)
 - Include hours of operation
@@ -469,7 +469,7 @@ Need help? We're here for you!
 
 ## 🔧 Quick Troubleshooting Guide
 
-<!-- 
+<!--
 GUIDANCE: Organized reference for common problems
 - Group by category (Device, Peripheral, Network, Software)
 - Symptom-based organization (what user sees/experiences)
@@ -557,7 +557,7 @@ GUIDANCE: Organized reference for common problems
 
 ## 📋 Daily Operations Checklist
 
-<!-- 
+<!--
 GUIDANCE: Practical daily use checklists
 - Separate into opening, during-service, closing
 - Make items actionable (checkbox format)
@@ -599,7 +599,7 @@ Use this checklist each day to ensure smooth operations:
 
 ## 🎓 Training Resources
 
-<!-- 
+<!--
 GUIDANCE: Links to additional learning materials
 - Only include if resources actually exist
 - Link to internal documentation
@@ -627,7 +627,7 @@ GUIDANCE: Links to additional learning materials
 
 ## 📝 Notes & Customization
 
-<!-- 
+<!--
 GUIDANCE: Space for venue-specific information
 - Provide fillable fields for critical info
 - Help staff remember important details
@@ -657,8 +657,8 @@ Every venue is unique! Use this space to add your own notes:
 
 ---
 
-**Document Version:** [Version Number]  
-**Last Updated:** [Month Year]  
+**Document Version:** [Version Number]
+**Last Updated:** [Month Year]
 **Prepared by:** BlazeBite Support Team
 
 Thank you for choosing BlazeBite! We're excited to help you streamline your [operations type]. 🔥
@@ -956,9 +956,9 @@ When linking to other documentation:
 
 ## Version History
 
-**Template Version:** 1.0  
-**Created:** November 2025  
-**Last Updated:** November 2025  
+**Template Version:** 1.0
+**Created:** November 2025
+**Last Updated:** November 2025
 **Maintained by:** Joe Wayne (@Inversity)
 
 ---

@@ -8,6 +8,9 @@ Official documentation for BlazeBite venue onboarding, device setup, and operati
 - [Tablet Setup Guide](./onboarding/ONBOARDING_TABLET.md)
 - [Kitchen App Reference](./reference/KITCHEN_APP_REFERENCE.md)
 
+### 📚 System Context
+- [BlazeBite Architecture Overview](./blazebite-architecture-overview.md)
+
 ### 📖 Documentation Guides
 - [Model-Specific Documentation Guides](./model-guides/)
   - [GPT-5 Documentation Guide](./model-guides/gpt5-documentation-guide.md)
@@ -16,6 +19,7 @@ Official documentation for BlazeBite venue onboarding, device setup, and operati
 
 ### 🔧 For Contributors
 - [Documentation Templates](./templates/)
+  - [Onboarding Template](./templates/TEMPLATE_ONBOARDING.md) ⭐
 - [Contributing Guidelines](./CONTRIBUTING.md)
 
 ## Documentation Structure
