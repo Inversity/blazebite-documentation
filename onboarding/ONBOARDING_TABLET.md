@@ -94,6 +94,8 @@ Make sure you have the following information ready:
 
 ### Step 4: Log In to the Kitchen App
 
+💡 **Why the same credentials?** The Kitchen app connects to your BlazeBite Portal account. This ensures your tablet sees your menus, settings, and orders automatically.
+
 1. **Enter your email address** in the Email field
    - This is the same email you use for the BlazeBite Portal
 
@@ -115,61 +117,17 @@ Make sure you have the following information ready:
 
 ## 📱 Kitchen App Interface Tour
 
-Once logged in, you'll see the main Orders screen. Here's an overview of the Kitchen app interface:
+Once logged in, you'll see the main **Orders** screen. This is your primary workspace during service.
 
-### Main Navigation (Hamburger Menu)
+**Tap the three horizontal lines (☰)** in the top-left corner to access the main menu with these key features:
+- **Orders** - View and manage incoming orders (your main screen)
+- **Menu Management** - Turn menus or items on/off (86'd items)
+- **Settings** - Configure your printer and other hardware
+- **Order History**, **Stats**, **Location Presets**, and more
 
-**Tap the three horizontal lines (☰)** in the top-left corner to access the main menu. You'll see these options:
+💡 **Tip:** You'll spend most of your time on the **Orders** screen. Use the hamburger menu (☰) for configuration and daily menu management.
 
-#### 1️⃣ **Orders** (Main Screen)
-- View incoming orders in real-time
-- See order details, items, and special requests
-- Mark orders as ready for pickup
-- Print order tickets
-- Your primary screen during service hours
-
-#### 2️⃣ **Expeditor**
-- Kitchen-optimized view for busy periods
-- Shows multiple orders at once in a grid/card layout
-- Quick status updates without opening individual orders
-- Ideal for expo stations or runners
-
-#### 3️⃣ **Order History**
-- View all completed and cancelled orders
-- Search past orders by date, order number, or customer name
-- Process refunds if needed (when authorized)
-
-#### 4️⃣ **Menu Management**
-- Toggle entire menus on/off (breakfast, lunch, dinner, etc.)
-- Turn individual menu items on/off (86'd items)
-- Real-time updates to customer-facing ordering systems
-- Use this for daily prep and inventory management
-
-#### 5️⃣ **Order Stats**
-- View daily sales reports
-- See total orders, revenue, and popular items
-- Track performance by hour or time period
-
-#### 6️⃣ **Location Presets**
-- Select default pickup location for new orders
-- Useful if you have multiple pickup points (bar, counter, patio, etc.)
-- Orders automatically tagged with the selected location
-
-#### 7️⃣ **Checkout** (if enabled)
-- Accept cash or card payments directly on the tablet
-- Create walk-up orders at the venue
-- Only visible if enabled for your venue
-
-#### 8️⃣ **Settings**
-- Configure hardware (printers, notification sounds)
-- Adjust notification preferences
-- View app version and device information
-
-#### 9️⃣ **Log Out**
-- Sign out of the current user account
-- Use when changing shifts or users
-
-💡 **Tip:** During service, you'll spend most of your time on the **Orders** screen. The hamburger menu is for configuration and management tasks.
+📚 **For complete feature details**, see the [Kitchen App Reference Guide](../reference/KITCHEN_APP_REFERENCE.md).
 
 ---
 
@@ -177,7 +135,7 @@ Once logged in, you'll see the main Orders screen. Here's an overview of the Kit
 
 ### Part A: Pair the Printer (One-Time Setup)
 
-First, you need to pair the printer with the tablet using Android's Bluetooth settings through Esper:
+First, pair the printer with the tablet at the system level using Android's Bluetooth settings through Esper:
 
 1. **Power on your Star TSP100 printer**
    - Connect printer to power outlet
@@ -214,7 +172,9 @@ First, you need to pair the printer with the tablet using Android's Bluetooth se
 
 ### Part B: Connect Printer in Kitchen App
 
-After pairing in Esper Settings, you need to connect the printer within the Kitchen app:
+💡 **Why this second step?** System pairing (Part A) lets Android recognize the printer. App connection (Part B) tells the Kitchen app which printer to use for order tickets.
+
+After pairing in Esper Settings, connect the printer within the Kitchen app:
 
 1. **Open the Kitchen app** (if not already open)
 
@@ -375,6 +335,28 @@ Congratulations! Your tablet is fully configured and ready to accept orders when
 ## 📞 Support & Contact Information
 
 Need help? We're here for you!
+
+### When to Contact Support
+
+**Try these first:**
+- Restart the tablet or printer
+- Check WiFi and Bluetooth connections
+- Verify cables are plugged in securely
+- Try logging out and back in
+
+**Contact support if:**
+- Problem persists after 3 troubleshooting attempts
+- Issue lasts more than 10 minutes during service
+- App crashes repeatedly (3+ times)
+- Printer won't connect after re-pairing
+- Orders not appearing for 5+ minutes
+
+**What to have ready when calling:**
+- Your venue name and location
+- Device ID or tablet name (found in Settings)
+- What you've already tried
+- Screenshot of any error messages (if possible)
+- When the problem started
 
 ### BlazeBite Support
 - **Email:** support@blazebite.com
@@ -553,8 +535,9 @@ Every venue is unique! Use this space to add your own notes:
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 2.0  
 **Last Updated:** November 2025  
-**Prepared by:** BlazeBite Support Team
+**Prepared by:** BlazeBite Support Team  
+**Note:** Rewritten using TEMPLATE_ONBOARDING.md for improved clarity and compliance
 
 Thank you for choosing BlazeBite! We're excited to help you streamline your kitchen operations. 🔥
