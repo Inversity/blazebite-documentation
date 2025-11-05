@@ -1482,5 +1482,5 @@ Use this checklist to verify staff competency:
 
 **End of Kitchen App Reference Guide**
 
-For tablet setup and initial configuration, see **../onboarding/ONBOARDING_TABLET.md**.  
+For tablet setup and initial configuration, see **../onboarding/ONBOARDING_TABLET.md**.
 For operational questions and FAQ, see Issue #1 tracking document.
