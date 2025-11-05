@@ -378,7 +378,7 @@ Need help? We're here for you!
 
 ### BlazeBite Support
 - **Email:** support@blazebite.com
-- **Phone:** (555) 123-4567
+- **Phone:** (888) 555-1212
 - **Portal:** portal.blazebite.com/support
 - **Hours:** Monday-Friday, 9am-6pm EST
 
