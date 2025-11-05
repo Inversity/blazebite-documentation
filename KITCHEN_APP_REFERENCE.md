@@ -1370,7 +1370,7 @@ After log out:
 
 **External:**
 - Email: support@blazebite.com
-- Phone: (555) 123-4567
+- Phone: Mark: 440-231-5818 | Joe: 724-996-6636
 - Portal: portal.blazebite.com/support
 
 ### Training Materials
