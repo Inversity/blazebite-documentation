@@ -360,12 +360,12 @@ Need help? We're here for you!
 
 ### BlazeBite Support
 - **Email:** support@blazebite.com
-- **Phone:** Mark: 440-231-5818 | Joe: 724-996-6636
-- **Portal:** portal.blazebite.com/support
+- **Phone:** Joe: 724-996-6636
+- **Portal:** https://www.blazebite.com/support
 - **Hours:** Monday-Friday, 9am-6pm EST
 
 ### Emergency Support (Service Hours)
-- **Text/SMS:** Mark: 440-231-5818 | Joe: 724-996-6636
+- **Text/SMS:** Joe: 724-996-6636
 - For urgent issues during operating hours only
 
 ### Common Issues Quick Reference
